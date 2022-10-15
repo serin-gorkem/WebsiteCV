@@ -11,6 +11,8 @@ Current maintainer: Crehera.
 body {
     margin: 0;
     text-align: center;
+    width: auto;
+    overflow-x: hidden;
 }
 
 p {
